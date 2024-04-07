@@ -10,9 +10,9 @@ I work on a variety of projects in various roles, such as:
   Vault](https://github.com/hashicorp/vault), Kubernetes, and various others.
 - I am the current maintainer of the
   [`gruvbox-material.nvim`](https://github.com/f4z3r/gruvbox-material.nvim) NeoVim plugin.
-- I am the author of a couple Lua plugins such as
+- I am the author of a couple Lua libraries such as
   [`luatext`](https://github.com/f4z3r/luatext), [`luatables`](https://github.com/f4z3r/luatables),
-  and [`luakube`](https://github.com/f4z3r/luakube)
+  and [`luakube`](https://github.com/f4z3r/luakube).
 
 <a href="https://github.com/f4z3r">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=f4z3r&show_icons=True&theme=dark&include_all_commits=True&count_private=True" />

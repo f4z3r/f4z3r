@@ -17,11 +17,23 @@ I work on a variety of projects in various roles, such as:
   and [`luakube`](https://github.com/f4z3r/luakube).
 - I am hacking away on my [NixOS setup](https://github.com/f4z3r/nix).
 
-<a href="https://github.com/f4z3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=f4z3r&show_icons=True&theme=dark&include_all_commits=True&count_private=True" />
-</a>
-<a href="https://github.com/f4z3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4z3r&theme=dark&langs_count=8&layout=compact" />
-</a>
+I am okay at:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,kubernetes,docker,git,lua,go,nix,rust,py" />
+  </a>
+</p>
+
+<details>
+  <summary>Some stats:</summary>
+
+  <a href="https://github.com/f4z3r">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=f4z3r&show_icons=True&theme=dark&include_all_commits=True&count_private=True" />
+  </a>
+  <a href="https://github.com/f4z3r">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4z3r&theme=dark&langs_count=8&layout=compact" />
+  </a>
+</details>
 
 

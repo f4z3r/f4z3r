@@ -7,7 +7,7 @@ various programming languages.
 I work on a variety of projects in various roles, such as:
 - I am a software architect at [ipt](https://ipt.ch/en/), working on various mandates.
 - I try to contribute to open source, on projects such as [HashiCorp
-  Vault](https://github.com/hashicorp/vault), Kubernetes, and various others.
+  Vault](https://github.com/hashicorp/vault), the Kubernetes ecosystem, and various others.
 - I am the current maintainer of the
   [`gruvbox-material.nvim`](https://github.com/f4z3r/gruvbox-material.nvim) NeoVim plugin.
 - I am the author of a couple Lua tools and libraries such as

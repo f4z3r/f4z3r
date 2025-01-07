@@ -5,7 +5,7 @@ faster. I am passionate about cloud native software and infrastructure, security
 various programming languages.
 
 I work on a variety of projects in various roles, such as:
-- I am a software architect at [ipt](https://ipt.ch/en/), working on various mandates.
+- I am a principal software architect at [ipt](https://ipt.ch/en/), working on various mandates.
 - I try to contribute to open source, on projects such as [HashiCorp
   Vault](https://github.com/hashicorp/vault), the Kubernetes ecosystem, and various others.
 - I am the current maintainer of the

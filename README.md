@@ -6,7 +6,8 @@ various programming languages.
 
 I work on a variety of projects in various roles, such as:
 - I am a principal software architect at [ipt](https://ipt.ch/en/), working on various mandates.
-- I try to contribute to open source, on projects such as [HashiCorp
+- I regularly contribute to open source, on projects such as
+  [wasmCloud](https://github.com/wasmCloud/wasmCloud), [HashiCorp
   Vault](https://github.com/hashicorp/vault), the Kubernetes ecosystem, and various others.
 - I am the current maintainer of the
   [`gruvbox-material.nvim`](https://github.com/f4z3r/gruvbox-material.nvim) NeoVim plugin.

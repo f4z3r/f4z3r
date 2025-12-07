@@ -18,7 +18,7 @@ I work on a variety of projects in various roles, such as:
   and [`luakube`](https://github.com/f4z3r/luakube).
 - hacking away on my [NixOS setup](https://github.com/f4z3r/nix).
 - preaching on split keyboards, NeoVim, and other pretty useless but incredibly fun things to anyone
-  what wants to led me their ear.
+  what wants to lend me their ear.
 
 I am okay at:
 
@@ -32,9 +32,13 @@ I am okay at:
   <summary>Some stats:</summary>
 
   <a href="https://github.com/f4z3r">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=f4z3r&show_icons=True&theme=dark&include_all_commits=True&count_private=True" />
+    <img src="https://raw.githubusercontent.com/f4z3r/f4z3r/main/profile-summary-card-output/gruvbox/0-profile-details.svg" />
+  </a>
+
+  <a href="https://github.com/f4z3r">
+    <img src="https://raw.githubusercontent.com/f4z3r/f4z3r/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" />
   </a>
   <a href="https://github.com/f4z3r">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4z3r&theme=dark&langs_count=8&layout=compact" />
+    <img src="https://raw.githubusercontent.com/f4z3r/f4z3r/main/profile-summary-card-output/gruvbox/3-stats.svg" />
   </a>
 </details>
